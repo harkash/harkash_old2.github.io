@@ -24,14 +24,14 @@ Internships and work experience
 
 * Aug 2015 - May 2016: Business Technology Analyst, Deloitte Consulting USI
 
-* Jan 2015 - Jun 2015: Intern, Regional Remote Sensing Centre - South (RRSC-S), Indian Space Research Organization (ISRO)
+* Jan 2015 - Jun 2015: Intern, Regional Remote Sensing Centre - South, Indian Space Research Organization (ISRO)
 
 * Jan 2014 - Jun 2015: Intern, Forus Health Pvt Ltd
 
   
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->

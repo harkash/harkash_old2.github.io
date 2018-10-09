@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Electrical and Computer Engineering (ECE) at Georgia Tech. I am doing a Master's thesis and am advised by [Prof. Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz) and Prof. David Anderson. The focus of my research has been towards studying and applying deep learning techniques to 
+I am a Master's student in Electrical and Computer Engineering (ECE) at Georgia Tech. I am doing a Master's thesis and am advised by [Prof. Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz) and Prof. David Anderson. I am studying the application of deep learning techniques for analysing human behavior using time series data from wearables. 
+
+During the last summer, I worked as a Data Science Intern at Asurion and developed deep learning systems to assist Experts with answering Customer questions in chat sessions. Previously, I was associated with the [Learning and Extraction of Acoustic Patterns Labs](http://leap.ee.iisc.ac.in/), Indian Institute of Science where I worked on speaker verification and spoof detection. 
