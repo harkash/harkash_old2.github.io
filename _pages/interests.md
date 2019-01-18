@@ -8,8 +8,12 @@ author_profile: true
 {% include base_path %}
 
 Two of my major interests are - 
-* Climbing - I started bouldering over the summer and am climbing V2-V3.
-* Reading books - I mostly read non-fiction and fantasy. I am looking forward to reading a lot more in 2019. Meanwhile, these are some of the books I read in 2018 
+* Climbing - I started bouldering over the summer of 2018 and am climbing V4-V5.
+* Reading books - I mostly read non-fiction and fantasy, though I have begun 2019 with some science fiction classics. This is my current list for 2019: 
+	- Do Androids dream of electric sheep? by Philip K. Dick
+	- The Dispossessed by Ursula K. Le Guin (currently reading)
+
+  Some of the books I read in 2018 include: 
     - Deep Work by Cal Newport
     - All The President's Men by Bob Woodward and Carl Bernstein
     - All Quiet On The Western Front by Erich Maria Remarque
@@ -17,3 +21,5 @@ Two of my major interests are -
     - Brave New World by Aldous Huxley
     - The Murrow Boys by Stanley Cloud
     - Kitchen Confidential by Anthony Bourdain
+    - In Cold Blood by Truman Capote
+    - Mother Night by Kurt Vonnegut
