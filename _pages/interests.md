@@ -10,8 +10,9 @@ author_profile: true
 Two of my major interests are - 
 * Climbing - I started bouldering over the summer of 2018 and am climbing V4-V5.
 * Reading books - I mostly read non-fiction and fantasy, though I have begun 2019 with some science fiction classics. This is my current list for 2019: 
-	- Do Androids dream of electric sheep? by Philip K. Dick
-	- The Dispossessed by Ursula K. Le Guin (currently reading)
+	- Do Androids Dream of Electric Sheep? by Philip K. Dick
+	- The Dispossessed by Ursula K. Le Guin 
+	- The Creation of the Media by Paul Starr (currently reading)
 
   Some of the books I read in 2018 include: 
     - Deep Work by Cal Newport
