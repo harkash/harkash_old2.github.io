@@ -16,7 +16,7 @@ Education
 
 Internships and work experience
 ======
-* Aug 2018 - Dec 2018: Graduate Teaching Assistant,  Georgia Institute of Technology
+* Aug 2018 - current: Graduate Teaching Assistant,  Georgia Institute of Technology
 
 * May 2018 - Aug 2018: Data Science Intern, Asurion
 
