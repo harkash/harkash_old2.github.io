@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My resume can be found [here](paperurl:'http://harkash.github.io/files/harish_resume_2page.pdf')
+My resume can be found [here]('http://github.com/harkash/harkash.github.io/files/harish_resume_2page.pdf')
 
 Education
 ======
