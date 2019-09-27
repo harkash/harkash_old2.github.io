@@ -23,7 +23,7 @@ constraints is achieved.'
 date: 2014-04-01
 venue: 'eLSE 2014'
 paperurl: 'http://harkash.github.io/files/inoah.pdf'
-citation: 'Nitin, P., Arjun, S., Prashasthi, P., **Haresamudram, H.K.**, Swathi, M.B. and Anushree, P.K., 2014, July. A REGIONALIZED COLLABORATIVE COMMUNITY BASED CLOUD COMPUTING AWARENESS EVANGELISM INITIATIVE. In The International Scientific Conference eLearning and Software for Education (Vol. 3, p. 336). " Carol I" National Defence University.'
+citation: 'Nitin, P., Arjun, S., Prashasthi, P., <b>Haresamudram, H.K.</b>, Swathi, M.B. and Anushree, P.K., 2014, July. A REGIONALIZED COLLABORATIVE COMMUNITY BASED CLOUD COMPUTING AWARENESS EVANGELISM INITIATIVE. In The International Scientific Conference eLearning and Software for Education (Vol. 3, p. 336). " Carol I" National Defence University.'
 ---
 
 [Download paper here](paperurl: 'http://harkash.github.io/files/inoah.pdf')

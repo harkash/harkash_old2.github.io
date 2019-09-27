@@ -23,7 +23,7 @@ constraints is achieved.'
 date: 2015-07-01
 venue: 'CONECCT'
 paperurl: 'http://harkash.github.io/files/pista.pdf'
-citation: 'Adithya K., Naveen B., **Harish K.**, Mahendra M.N., Divya R.A., Agrawal V.K., 2015, March. Software Fault Tolerance in PISAT. In Electronics, Computing and Communication Technologies (CONECCT), 2015 IEEE International Conference on. IEEE.'
+citation: 'Adithya K., Naveen B., <b>Harish K.</b>, Mahendra M.N., Divya R.A., Agrawal V.K., 2015, March. Software Fault Tolerance in PISAT. In Electronics, Computing and Communication Technologies (CONECCT), 2015 IEEE International Conference on. IEEE.'
 ---
 
 [Download paper here](paperurl: 'http://harkash.github.io/files/pista.pdf')

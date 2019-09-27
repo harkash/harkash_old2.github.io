@@ -23,7 +23,7 @@ EER of 0.67 and 11.63%, respectively.'
 date: 2017-08-01
 venue: 'INTERSPEECH 2017'
 paperurl: 'http://harkash.github.io/files/iit_g_nist.pdf'
-citation: 'Kumar, N., Das, R.K., Jelil, S., BK, D., **Kashyap, H.**, Murty, K.S.R., Ganapathy, S., Sinha, R. and Prasanna, S.M., 2017. IITG-Indigo System for NIST 2016 SRE Challenge. Proc. Interspeech 2017, pp.2859-2863.'
+citation: 'Kumar, N., Das, R.K., Jelil, S., BK, D., <b>Kashyap, H.</b>, Murty, K.S.R., Ganapathy, S., Sinha, R. and Prasanna, S.M., 2017. IITG-Indigo System for NIST 2016 SRE Challenge. Proc. Interspeech 2017, pp.2859-2863.'
 ---
 
 [Download paper here](paperurl: 'http://harkash.github.io/files/iit_g_nist.pdf')
