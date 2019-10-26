@@ -12,7 +12,17 @@ Two of my major interests are -
 * Reading books - I mostly read non-fiction and fantasy, though I have begun 2019 with some science fiction classics. This is my current list for 2019: 
 	- Do Androids Dream of Electric Sheep? by Philip K. Dick
 	- The Dispossessed by Ursula K. Le Guin 
-	- The Creation of the Media by Paul Starr (currently reading)
+	- The Creation of the Media by Paul Starr (in limbo)
+    - Catch-22 by Joseph Heller
+    - The Shadow of What Was Lost by James Islington
+    - Cat's Cradle by Kurt Vonnegut
+    - Darkness at Noon by Arthur Koestler
+    - How Democracies Die by Steven Levitsky and Daniel Zablatt
+    - Flash Boys by Michael Lewis
+    - Saint's Blood by Sebastien de Castell
+    - Tyrant's Throne by Sebastien de Castell
+    - The Wind-Up Bird Chronicle by Haruki Murakami and Jay Rubin (Translator): currently reading
+    - Veil of the Deserters by Jeff Salyards: currently reading
 
   Some of the books I read in 2018 include: 
     - Deep Work by Cal Newport
