@@ -27,7 +27,7 @@ baseline).'
 date: 2017-03-01
 venue: 'ICASSP 2017'
 paperurl: 'http://harkash.github.io/files/factor_analysis_methods.pdf'
-citation: 'Dhanush, B.K., Suparna, S., Aarthy, R., Likhita, C., Shashank, D., ,b>Harish, H.</b> and Ganapathy, S., 2017, March. Factor analysis methods for joint speaker verification and spoof detection. In Acoustics, Speech and Signal Processing (ICASSP), 2017 IEEE International Conference on (pp. 5385-5389). IEEE.'
+citation: 'Dhanush, B.K., Suparna, S., Aarthy, R., Likhita, C., Shashank, D., <b>Harish, H.</b> and Ganapathy, S., 2017, March. Factor analysis methods for joint speaker verification and spoof detection. In Acoustics, Speech and Signal Processing (ICASSP), 2017 IEEE International Conference on (pp. 5385-5389). IEEE.'
 ---
 
 [Download paper here](paperurl: 'http://harkash.github.io/files/factor_analysis_methods.pdf')
