@@ -22,7 +22,9 @@ Two of my major interests are -
     - Saint's Blood by Sebastien de Castell
     - Tyrant's Throne by Sebastien de Castell
     - The Wind-Up Bird Chronicle by Haruki Murakami and Jay Rubin (Translator): currently reading
-    - Veil of the Deserters by Jeff Salyards: currently reading
+    - Veil of the Deserters by Jeff Salyards
+    - Chains of the Heretic by Jeff Salyards
+    - The Spy who came in from the Cold by John Le Carre: currently reading
 
   Some of the books I read in 2018 include: 
     - Deep Work by Cal Newport
