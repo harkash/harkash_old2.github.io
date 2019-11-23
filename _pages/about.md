@@ -15,4 +15,4 @@ redirect_from:
  - Previously, I was associated with the [Learning and Extraction of Acoustic Patterns Labs](http://leap.ee.iisc.ac.in/), Indian Institute of Science where I worked on speaker verification and spoof detection. 
 
 # Recent News
- - September 12, 2019: presented my paper - [On the Role of Features in Human Activity Recognition](http://harkash.github.io/files/on-the-role-of-features-in-har.pdf) at ISWC 2019
+ - September 12, 2019: presented my paper - [On the Role of Features in Human Activity Recognition](http://harkash.github.io/files/on-the-role-of-features-in-har.pdf) at ISWC 2019.
