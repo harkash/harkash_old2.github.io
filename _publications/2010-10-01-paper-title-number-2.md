@@ -7,7 +7,7 @@ venue: 'Conference on Electronics, Computing and Communication Technologies 2015
 citation: 'Adithya K., Naveen B., <b>Harish K.</b>, Mahendra M.N., Divya R.A., Agrawal V.K., 2015, March. Software Fault Tolerance in PISAT. In Electronics, Computing and Communication Technologies (CONECCT), 2015 IEEE International Conference on. IEEE.'
 ---
 
-[Download paper here](paperurl: 'http://harkash.github.io/files/pista.pdf')
+[Download paper here](http://harkash.github.io/files/pista.pdf)
 
 ## Abstract
 Systems used in safety critical applications such as satellites are required to be highly reliable. 

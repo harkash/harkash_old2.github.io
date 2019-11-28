@@ -8,7 +8,7 @@ citation: "<b>Harish Haresamudram</b>, David V Anderson, and Thomas Ploetz. On t
 
 ---
 
-[Download paper here](paperurl: 'http://harkash.github.io/files/on-the-role-of-features-in-har.pdf')
+[Download paper here](http://harkash.github.io/files/on-the-role-of-features-in-har.pdf)
 
 ## Abstract
 Traditionally, the sliding window based activity recognition

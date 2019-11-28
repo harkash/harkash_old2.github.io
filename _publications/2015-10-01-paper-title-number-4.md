@@ -7,7 +7,7 @@ venue: 'INTERSPEECH 2017'
 citation: 'Kumar, N., Das, R.K., Jelil, S., BK, D., <b>Kashyap, H.</b>, Murty, K.S.R., Ganapathy, S., Sinha, R. and Prasanna, S.M., 2017. IITG-Indigo System for NIST 2016 SRE Challenge. Proc. Interspeech 2017, pp.2859-2863.'
 ---
 
-[Download paper here](paperurl: 'http://harkash.github.io/files/iit_g_nist.pdf')
+[Download paper here](http://harkash.github.io/files/iit_g_nist.pdf)
 
 ## Abstract
 This paper describes the speaker verification (SV) system submitted to the NIST 2016 speaker recognition evaluation (SRE)

@@ -7,7 +7,7 @@ venue: 'International Conference on Acoustics, Speech, and Signal Processing 201
 citation: 'Dhanush, B.K., Suparna, S., Aarthy, R., Likhita, C., Shashank, D., <b>Harish, H.</b> and Ganapathy, S., 2017, March. Factor analysis methods for joint speaker verification and spoof detection. In Acoustics, Speech and Signal Processing (ICASSP), 2017 IEEE International Conference on (pp. 5385-5389). IEEE.'
 ---
 
-[Download paper here](paperurl: 'http://harkash.github.io/files/factor_analysis_methods.pdf')
+[Download paper here](http://harkash.github.io/files/factor_analysis_methods.pdf)
 
 ## Abstract
 The performance of a speaker verification system is severely degraded by spoofing attacks generated 
