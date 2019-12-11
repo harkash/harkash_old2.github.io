@@ -21,7 +21,7 @@ Previously, I was associated with the [Learning and Extraction of Acoustic Patte
 spoof detection, advised  by [Prof. Sriram Ganapathy](http://leap.ee.iisc.ac.in/sriram/).
   
   
-##Research
+## Research
 
 My research broadly involves learning representations for time-series data, with a special focus on 
 developing techniques that require minimal supervision. I develop unsupervised and self-supervised 
