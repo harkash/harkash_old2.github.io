@@ -11,7 +11,8 @@ author_profile: true
 {% include base_path %}
 
 <br> <b> [On the Role of Features in Human Activity Recognition](https://harkash.github.io/publication/on-the-role-of-features-in-har) </b><br>
-<i> International Symposium on Wearable Computers. </i> <b> ISWC 2019 </b> 
+<br> <b>Harish Haresamudram</b>, David V Anderson, and Thomas Ploetz. On the role of features in
+ human activity recognition. In Proceedings of the 23rd International Symposium on Wearable Computers, pages 78-88. ACM, 2019. </br> 
 
 <br> <b> [IITG-Indigo System for NIST 2016 SRE Challenge](https://harkash.github.io/publication/iitg-indigo-system) </b><br>
 <i> INTERSPEECH. </i> <b> INTERSPEECH 2017 </b> 
