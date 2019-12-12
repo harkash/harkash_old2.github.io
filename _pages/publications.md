@@ -17,7 +17,7 @@ author_profile: true
 <br> <b> [IITG-Indigo System for NIST 2016 SRE Challenge](https://harkash.github.io/publication/iitg-indigo-system) </b>
 <br> Kumar, N., Das, R.K., Jelil, S., BK, D., <b>Kashyap, H.</b>, Murty, K.S.R., Ganapathy, S., 
 Sinha, R. and Prasanna, S.M.
-<br> Interspeech 2017
+<br> Interspeech 2017.
 
 <br> <b> [Factor Analysis Methods For Joint Speaker Verification and Spoof Detection](https://harkash.github.io/publication/factor_analysis_methods) </b>
 <br> Dhanush, B.K., Suparna, S., Aarthy, R., Likhita, C., Shashank, D., <b>Harish, H.</b> and 
