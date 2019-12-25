@@ -25,7 +25,8 @@ Two of my major interests are -
     - Veil of the Deserters by Jeff Salyards
     - Chains of the Heretic by Jeff Salyards
     - The Spy who came in from the Cold by John Le Carre
-    - The Fifth Season by NK Jemisin (currently reading)
+    - The Fifth Season by NK Jemisin
+    - Man's Search for Meaning by Victor Frankl
 
   Some of the books I read in 2018 include: 
     - Deep Work by Cal Newport
