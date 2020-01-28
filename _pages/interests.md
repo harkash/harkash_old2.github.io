@@ -8,11 +8,15 @@ author_profile: true
 {% include base_path %}
 
 Two of my major interests are - 
-* Climbing - I started bouldering over the summer of 2018 and am climbing V4-V5.
-* Reading books - I mostly read non-fiction and fantasy, though I have begun 2019 with some science fiction classics. This is my current list for 2019: 
-	- Do Androids Dream of Electric Sheep? by Philip K. Dick
-	- The Dispossessed by Ursula K. Le Guin 
-	- The Creation of the Media by Paul Starr (in limbo)
+* Climbing - I started bouldering over the summer of 2018 and am currently climbing V4-V5.
+* Reading books - I mostly read non-fiction and fantasy, though I have begun 2020 with a science fiction classic. This is my current list for 2020:
+    - Neuromancer by William Gibson
+    - Ride of a lifetime by Robert Iger (currently reading)
+
+Books I read in 2019:
+    - Do Androids Dream of Electric Sheep? by Philip K. Dick
+    - The Dispossessed by Ursula K. Le Guin 
+    - The Creation of the Media by Paul Starr (in limbo)
     - Catch-22 by Joseph Heller
     - The Shadow of What Was Lost by James Islington
     - Cat's Cradle by Kurt Vonnegut
@@ -26,7 +30,7 @@ Two of my major interests are -
     - Chains of the Heretic by Jeff Salyards
     - The Spy who came in from the Cold by John Le Carre
     - The Fifth Season by NK Jemisin
-    - Man's Search for Meaning by Victor Frankl
+    - Man's Search for Meaning by Victor Frankl (unfinished)
 
   Some of the books I read in 2018 include: 
     - Deep Work by Cal Newport
