@@ -11,7 +11,9 @@ Two of my major interests are -
 * Climbing - I started bouldering over the summer of 2018 and am currently climbing V4-V5.
 * Reading books - I mostly read non-fiction and fantasy, though I have begun 2020 with a science fiction classic. This is my current list for 2020:
     - Neuromancer by William Gibson
-    - Ride of a lifetime by Robert Iger (currently reading)
+    - Ride of a lifetime by Robert Iger 
+    - The Signal and the Noise by Nate Silver (currently reading)
+    - Manufacturing consent by Noam Chomsky (currently reading)
 
 Books I read in 2019:
  - Do Androids Dream of Electric Sheep? by Philip K. Dick
