@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student with the School of Electrical and Computer Engineering (ECE) at 
+I am a second year PhD student with the School of Electrical and Computer Engineering (ECE) at 
 Georgia Institute of Techology, Atlanta. I am advised by [Prof. Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz) 
 and [Prof. Irfan Essa](http://prof.irfanessa.com/).
 I received my Master's degree in May 2019 from Georgia Tech, where my thesis studied the role of 
@@ -30,6 +30,6 @@ wearables.
 
 
 ## Recent News
- - September 12, 2019: presented my paper (first author) - [On the Role of Features in Human 
- Activity 
- Recognition](http://harkash.github.io/files/on-the-role-of-features-in-har.pdf) at [ISWC 2019](http://www.iswc.net/iswc19/).
+ - September, 2020: presented my paper (first author) - [Masked Reconstruction Based Self-Supervision for Human Activity Recognition](http://harkash.github.io/files/masked-reconstruction.pdf) at [ISWC 2020](https://iswc.hosting2.acm.org/iswc20/).
+ - August, 2020: our paper has been accepted to the September issue of IMWUT 2020! : [IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition](http://harkash.github.io/files/imutube.pdf). It will be presented at [Ubicomp 2020](https://ubicomp.org/ubicomp2020/).
+ - September, 2019: presented my paper (first author) - [On the Role of Features in Human Activity Recognition](http://harkash.github.io/files/on-the-role-of-features-in-har.pdf) at [ISWC 2019](http://www.iswc.net/iswc19/).
