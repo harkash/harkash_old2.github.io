@@ -10,6 +10,14 @@ author_profile: true
 
 {% include base_path %}
 
+<br> <b> [Masked Reconstruction Based Self-Supervision for Human Activity Recognition](https://harkash.github.io/publication/masked-reconstruction) </b>
+<br> <b>Harish Haresamudram</b>, Apoorva Beedu, Varun Agrawal, Patrick L Grady, Irfan Essa, Judy Hoffman, Thomas Plötz.
+<br> International Symposium on Wearable Computers (ISWC), 2020.
+
+<br> <b> [IMUTube: Automatic extraction of virtual on-body accelerometry from video for human activity recognition](https://harkash.github.io/publication/imutube) </b>
+<br> Hyeokhyen Kwon, Catherine Tong, <b>Harish Haresamudram</b>, Yan Gao, Gregory D. Abowd, Nicholas D. Lane, and Thomas Plötz.
+<br> Ubicomp, 2020.
+
 <br> <b> [On the Role of Features in Human Activity Recognition](https://harkash.github.io/publication/on-the-role-of-features-in-har) </b>
 <br> <b>Harish Haresamudram</b>, David V Anderson, and Thomas Ploetz.
 <br> International Symposium on Wearable Computers (ISWC), 2019.  
