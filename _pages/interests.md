@@ -7,13 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
-Two of my major interests are - 
-* Climbing - I started bouldering over the summer of 2018 and am currently climbing V4-V5.
-* Reading books - I mostly read non-fiction and fantasy, though I have begun 2020 with a science fiction classic. This is my current list for 2020:
-    - Neuromancer by William Gibson
-    - Ride of a lifetime by Robert Iger 
-    - The Signal and the Noise by Nate Silver (currently reading)
-    - Manufacturing consent by Noam Chomsky (currently reading)
+Since the start of the pandemic, going to the climbing gym has not been possible. Instead, I have started running and 
+biking (though probably not as often as I should). 
+
+I still read a few books a year, mostly in the fantasy and non-fiction genres:
+  This is my current list for 2020:
+ - Neuromancer by William Gibson
+ - Ride of a Lifetime by Robert Iger 
+ - The Signal and the Noise by Nate Silver
+ - Manufacturing Consent by Noam Chomsky (currently reading)
+ - The Creation of the Media: The Political Origins of Modern Communications by Paul Starr
+ - A Strangeness in My Mind by Orhan Pamuk, Ekin Oklap
+ - Senlin Ascends by Josiah Bancroft
+ - Arm of the Sphinx by Josiah Bancroft
+ - Never Let Me Go by Kazuo Ishiguro
+ - The Rage of Dragons by Evan Winter
+ - Edgedancer by Brandon Sanderson
+ - Norwegian Wood by Haruki Murakami, Jay Rubin 
+ - Kafka on the Shore by Haruki Murakami, Philip Gabriel
+ - Cork Dork: A Wine-Fueled Adventure Among Obsessive Sommeliers, Big Bottle Hunters, and Rogue Scientists Who Taught 
+ Me to Live for Taste by Bianca Bosker
+ - Germany, Memories of a Nation by Neil MacGregor (currently reading)
+ - Essentialism: The Disciplined Pursuit of Less by Greg McKeown (currently reading)
 
 Books I read in 2019:
  - Do Androids Dream of Electric Sheep? by Philip K. Dick
