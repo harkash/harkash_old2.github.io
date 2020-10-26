@@ -15,7 +15,7 @@ author_profile: true
 <br> International Symposium on Wearable Computers (ISWC), 2020.
 
 <br> <b> [IMUTube: Automatic extraction of virtual on-body accelerometry from video for human activity recognition](https://harkash.github.io/publication/imutube) </b>
-<br> Hyeokhyen Kwon*, Catherine Tong*, <b>Harish Haresamudram</b>, Yan Gao, Gregory D. Abowd, Nicholas D. Lane, and Thomas Plötz.
+<br> Hyeokhyen Kwon\*, Catherine Tong\*, <b>Harish Haresamudram</b>, Yan Gao, Gregory D. Abowd, Nicholas D. Lane, and Thomas Plötz.
 <br> Ubicomp, 2020.
 
 <br> <b> [On the Role of Features in Human Activity Recognition](https://harkash.github.io/publication/on-the-role-of-features-in-har) </b>
