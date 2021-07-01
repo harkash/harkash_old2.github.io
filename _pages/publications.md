@@ -12,7 +12,7 @@ author_profile: true
 
 <br> <b> [Contrastive Predictive Coding for Human Activity Recognition](https://harkash.github.io/publication/cpc) </b>
 <br> <b>Harish Haresamudram</b>, Irfan Essa, Thomas Plötz.
-<br><i> Under review </i>.
+<br> Ubicomp, 2021.
 
 <br> <b> [Masked Reconstruction Based Self-Supervision for Human Activity Recognition](https://harkash.github.io/publication/masked-reconstruction) </b>
 <br> <b>Harish Haresamudram</b>, Apoorva Beedu, Varun Agrawal, Patrick L Grady, Irfan Essa, Judy Hoffman, Thomas Plötz.
