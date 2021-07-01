@@ -3,7 +3,7 @@ title: "IMUTube: Automatic extraction of virtual on-body accelerometry from vide
 collection: publications
 permalink: /publication/imutube
 date: 2020-09-16
-venue: 'ISWC 2020'
+venue: 'Ubicomp 2020'
 citation: "Hyeokhyen Kwon<b>*</b>, Catherine Tong<b>*</b>, <b>Harish Haresamudram</b>, Yan Gao, Gregory D. Abowd, Nicholas D. Lane, and Thomas Plötz. 2020. IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 3, Article 87 (September 2020), 29 pages."
 
 ---
