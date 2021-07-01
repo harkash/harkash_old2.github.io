@@ -30,7 +30,7 @@ wearables.
 
 
 ## Recent News
- - June, 2021: our paper - [Contrastive Predictive Coding for Human Activity Recognition](https://dl.acm.org/doi/10.1145/3463506) has been published by the June 2021 issue of [IMWUT](https://dl.acm.org/journal/imwut)! The paper will be presented at [Ubicomp 2021](https://www.ubicomp.org/ubicomp2021/) in September 2021.  
+ - June, 2021: our paper - [Contrastive Predictive Coding for Human Activity Recognition](https://dl.acm.org/doi/10.1145/3463506) has been published in the June 2021 issue of [IMWUT](https://dl.acm.org/journal/imwut)! The paper will be presented at [Ubicomp 2021](https://www.ubicomp.org/ubicomp2021/) in September 2021.  
  - November, 2020: our paper - [Contrastive Predictive Coding for Human Activity Recognition](http://harkash.github.io/files/cpc.pdf) is currently _under review_. 
  - September, 2020: presented our paper - [Masked Reconstruction Based Self-Supervision for Human Activity Recognition](http://harkash.github.io/files/masked-reconstruction.pdf) at [ISWC 2020](https://iswc.hosting2.acm.org/iswc20/).
  - August, 2020: our paper has been accepted to the September issue of IMWUT 2020! : [IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition](http://harkash.github.io/files/imutube.pdf). It will be presented at [Ubicomp 2020](https://ubicomp.org/ubicomp2020/).
