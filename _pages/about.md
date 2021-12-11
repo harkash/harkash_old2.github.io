@@ -25,12 +25,13 @@ spoof detection, advised  by [Prof. Sriram Ganapathy](http://leap.ee.iisc.ac.in/
 
 My research broadly involves learning representations for time-series data, with a special focus on 
 developing techniques that require minimal supervision. I develop unsupervised and self-supervised 
-learning algorithms for time series data such as audio, speech and sensory streams from 
-wearables.
+learning algorithms for data from wearable sensors, including accelerometers, gyroscopes and intertial measurement units (IMUs).
 
 
 ## Recent News
+ - November, 2021: our paper, Towards bootstrapping human activity recognition systems through unsupervised clustering of movement data from wearables, is currently _under review_.
  - June, 2021: our paper - [Contrastive Predictive Coding for Human Activity Recognition](https://dl.acm.org/doi/10.1145/3463506) has been published in the June 2021 issue of [IMWUT](https://dl.acm.org/journal/imwut)! The paper will be presented at [Ubicomp 2021](https://www.ubicomp.org/ubicomp2021/) in September 2021.  
+ - May, 2021: starting my summer internship at Facebook Reality Labs! I will be working data from an EMG-based wearable device.
  - November, 2020: our paper - [Contrastive Predictive Coding for Human Activity Recognition](http://harkash.github.io/files/cpc.pdf) is currently _under review_. 
  - September, 2020: presented our paper - [Masked Reconstruction Based Self-Supervision for Human Activity Recognition](http://harkash.github.io/files/masked-reconstruction.pdf) at [ISWC 2020](https://iswc.hosting2.acm.org/iswc20/).
  - August, 2020: our paper has been accepted to the September issue of IMWUT 2020! : [IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition](http://harkash.github.io/files/imutube.pdf). It will be presented at [Ubicomp 2020](https://ubicomp.org/ubicomp2020/).
