@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student with the School of Electrical and Computer Engineering (ECE) at 
+I am a fourth year PhD student with the School of Electrical and Computer Engineering (ECE) at 
 Georgia Institute of Techology, Atlanta. I am advised by [Prof. Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz) 
 and [Prof. Irfan Essa](http://prof.irfanessa.com/).
 I received my Master's degree in May 2019 from Georgia Tech, where my thesis studied the role of 
@@ -29,7 +29,8 @@ learning algorithms for data from wearable sensors, including accelerometers, gy
 
 
 ## Recent News
- - November, 2021: our paper, Towards bootstrapping human activity recognition systems through unsupervised clustering of movement data from wearables, is currently _under review_.
+ - Sep, 2022: our papers - [Clustering of Human Activities from Wearables by Adopting Nearest Neighbors](https://dl.acm.org/doi/10.1145/3544794.3558477) and [A personalized approach for developing a snacking detection system using earbuds in a semi-naturalistic setting](https://dl.acm.org/doi/10.1145/3544794.3558469) have been accepted to [ISWC 22](https://iswc.net/iswc22/), and will be presented at the conference in Atlanta during September 2022.
+ - Sep, 2022: our paper - [Assessing the State of Self-Supervised Human Activity Recognition using Wearables](https://dl.acm.org/doi/10.1145/3550299) has been published in the Sep 2022 issue of [IMWUT](https://dl.acm.org/journal/imwut)! The paper will be presented at [Ubicomp 2022](https://www.ubicomp.org/ubicomp2022/) in in Atlanta.  
  - June, 2021: our paper - [Contrastive Predictive Coding for Human Activity Recognition](https://dl.acm.org/doi/10.1145/3463506) has been published in the June 2021 issue of [IMWUT](https://dl.acm.org/journal/imwut)! The paper will be presented at [Ubicomp 2021](https://www.ubicomp.org/ubicomp2021/) in September 2021.  
  - May, 2021: starting my summer internship at Facebook Reality Labs! I will be working data from an EMG-based wearable device.
  - November, 2020: our paper - [Contrastive Predictive Coding for Human Activity Recognition](http://harkash.github.io/files/cpc.pdf) is currently _under review_. 
