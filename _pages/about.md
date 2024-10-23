@@ -35,7 +35,7 @@ I have been supported by funding from the National Science Foundation (through t
 My research broadly involves learning representations for time-series data, with a special focus on 
 developing techniques that require minimal supervision. I develop unsupervised and self-supervised 
 learning algorithms for data from wearable sensors, including accelerometers, gyroscopes and intertial measurement units (IMUs).
-Subsequently, I use such representations to analyse human behavior, through movements and activities.
+Subsequently, I use such representations to analyse human behavior, through movements and activities..
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
